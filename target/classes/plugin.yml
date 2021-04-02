@@ -1,0 +1,8 @@
+name: WispBlockLookGet
+version: 1.0-SNAPSHOT
+main: dev.yhdiamond.wispblocklookget.WispBlockLookGet
+api-version: 1.16
+commands:
+  blocklookget:
+    usage: /blocklookget <start/stop>
+    description: Starts the Wisp Block-Look-Get challenge
